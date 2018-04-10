@@ -1,0 +1,184 @@
+<formExport version="2.0">
+	<summary id="-883150196810821941" name="formmain_2491" />
+	<definitions />
+	<values>
+		<column name="日期">
+			<value>&lt;![CDATA[2017-08-25]]&gt;</value>
+		</column>
+		<column name="流程编号">
+			<value />
+		</column>
+		<column name="已预付货款">
+			<value />
+		</column>
+		<column name="供应商代码">
+			<value />
+		</column>
+		<column name="供应商名称">
+			<value />
+		</column>
+		<column name="填报部门">
+			<value>&lt;![CDATA[1084243969358185637]]&gt;</value>
+		</column>
+		<column name="申请人">
+			<value>&lt;![CDATA[8346171129422956968]]&gt;</value>
+		</column>
+		<column name="开户银行">
+			<value />
+		</column>
+		<column name="银行账号">
+			<value />
+		</column>
+		<column name="付款说明">
+			<value />
+		</column>
+		<column name="凭证类型">
+			<value />
+		</column>
+		<column name="货币码">
+			<value>&lt;![CDATA[CNY]]&gt;</value>
+		</column>
+		<column name="附件数量">
+			<value />
+		</column>
+		<column name="本期应付金额大写">
+			<value>&lt;![CDATA[零元整]]&gt;</value>
+		</column>
+		<column name="本期应付金额小写">
+			<value />
+		</column>
+		<column name="科室负责人">
+			<value />
+		</column>
+		<column name="采购部负责人">
+			<value />
+		</column>
+		<column name="会计经理">
+			<value />
+		</column>
+		<column name="财务总监">
+			<value />
+		</column>
+		<column name="总经理审批">
+			<value />
+		</column>
+		<column name="董事长审批">
+			<value />
+		</column>
+		<column name="是否付款">
+			<value />
+		</column>
+		<column name="付款时间">
+			<value />
+		</column>
+		<column name="付款金额">
+			<value />
+		</column>
+		<column name="币种">
+			<value>&lt;![CDATA[CNY]]&gt;</value>
+		</column>
+		<column name="原币金额">
+			<value>&lt;![CDATA[0]]&gt;</value>
+		</column>
+		<column name="汇率">
+			<value />
+		</column>
+		<column name="本位币金额">
+			<value>&lt;![CDATA[0]]&gt;</value>
+		</column>
+		<column name="原因代码">
+			<value />
+		</column>
+		<column name="行号">
+			<value>&lt;![CDATA[2]]&gt;</value>
+		</column>
+		<column name="记账代码">
+			<value>&lt;![CDATA[50]]&gt;</value>
+		</column>
+		<column name="会计科目代码">
+			<value />
+		</column>
+		<column name="行号1">
+			<value>&lt;![CDATA[1]]&gt;</value>
+		</column>
+		<column name="记账代码1">
+			<value>&lt;![CDATA[25]]&gt;</value>
+		</column>
+		<column name="记账方向1">
+			<value />
+		</column>
+		<column name="付款姓名">
+			<value />
+		</column>
+		<column name="会计姓名">
+			<value />
+		</column>
+		<column name="处理日期">
+			<value />
+		</column>
+		<column name="公司名称">
+			<value />
+		</column>
+		<column name="公司代码">
+			<value />
+		</column>
+		<column name="创建人1">
+			<value>&lt;![CDATA[8346171129422956968]]&gt;</value>
+		</column>
+		<column name="创建部门1">
+			<value>&lt;![CDATA[1084243969358185637]]&gt;</value>
+		</column>
+		<column name="创建人员机构">
+			<value>&lt;![CDATA[中饮股份]]&gt;</value>
+		</column>
+		<column name="申请人员机构">
+			<value>&lt;![CDATA[中饮股份]]&gt;</value>
+		</column>
+		<column name="表单名称">
+			<value>&lt;![CDATA[货款支付申请单]]&gt;</value>
+		</column>
+		<column name="人员编号-隐藏">
+			<value>&lt;![CDATA[100554]]&gt;</value>
+		</column>
+		<column name="申请人编号-隐藏">
+			<value>&lt;![CDATA[100554]]&gt;</value>
+		</column>
+		<column name="出纳姓名-隐藏">
+			<value />
+		</column>
+		<column name="出纳操作日期-隐藏">
+			<value />
+		</column>
+		<column name="出纳人员编号-隐藏">
+			<value />
+		</column>
+		<column name="会计编号-隐藏">
+			<value />
+		</column>
+		<column name="发票日期">
+			<value />
+		</column>
+		<column name="SAP发票号">
+			<value />
+		</column>
+		<column name="金税发票号">
+			<value />
+		</column>
+		<column name="发票金额">
+			<value />
+		</column>
+		<column name="备注">
+			<value />
+		</column>
+		<column name="付款账户">
+			<value />
+		</column>
+		<column name="付款银行">
+			<value />
+		</column>
+		<column name="有无合同">
+			<value></value>
+		</column>
+	</values>
+	<subForms />
+</formExport>
